@@ -1,0 +1,10 @@
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\bin\Debug\CS_point_of_sales1.exe.config
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\bin\Debug\CS_point_of_sales1.exe
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\bin\Debug\CS_point_of_sales1.pdb
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.csproj.AssemblyReference.cache
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.Form1.resources
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.Properties.Resources.resources
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.csproj.GenerateResource.cache
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.exe
+C:\Users\Islam\source\repos\CS_point_of_sales1\CS_point_of_sales1\obj\Debug\CS_point_of_sales1.pdb
